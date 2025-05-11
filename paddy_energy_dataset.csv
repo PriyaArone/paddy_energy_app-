@@ -1,0 +1,4 @@
+Method,Labour (MJ/ha),Machinery (MJ/ha),Diesel (MJ/ha),Nitrogen (MJ/ha),Phosphate (MJ/ha),Potassium (MJ/ha),Water (MJ/ha),Electricity (MJ/ha),Seeds (MJ/ha),Manure (MJ/ha),Chemicals (MJ/ha),Total Input (MJ/ha),Grain Output (MJ/ha),Straw Output (MJ/ha),Total Output (MJ/ha)
+Conventional,872.2,2508,7883.4,21528.57,2279,802.8,17340,36505.8,432,4573.6,372,95116.69,49298,57600,106898
+SRI,1058.4,2006.4,6306.72,21528.57,2279,802.8,12750,26842.5,90,4573.6,372,78678.31,63585,52300,115885
+SRI with drip,1060.36,2006.4,6306.72,21528.57,2279,802.8,5100,10737,90,4573.6,372,54875.77,110842,54312.5,165154.5
